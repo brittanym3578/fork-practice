@@ -35,10 +35,10 @@ _Make me italicized_
 
 [ Turn this entire line of text into a link that goes to hstat.org ](http://www.hstat.org/ )
 
-Turn this entire line of text into code
+` Turn this entire line of text into code` 
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting (note: the cloud9 preview will not show the syntax highlighting).
-
+``` javascript
 <ol>
     <li>Item 1</li>
     <li>Item 2</li>
